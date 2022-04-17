@@ -1,0 +1,3 @@
+C:/Users/Tajerbashi/Desktop/C-C++/C++/1 Lesson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Tajerbashi/Desktop/C-C++/C++/1 Lesson/cmake-build-debug/CMakeFiles/1_Lesson.dir
+C:/Users/Tajerbashi/Desktop/C-C++/C++/1 Lesson/cmake-build-debug/CMakeFiles/edit_cache.dir
